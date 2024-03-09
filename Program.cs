@@ -11,7 +11,7 @@ class Program
 
     static async Task Main()
     {
-        string apiKey = "API-KEY";// Your api key from api.openweathermap.org
+        string apiKey = "bf512658f10d1b4c717a8d527d3e0fc2";// Your api key from api.openweathermap.org
         Console.WriteLine("City|Country: ");
         string city = Console.ReadLine();
         

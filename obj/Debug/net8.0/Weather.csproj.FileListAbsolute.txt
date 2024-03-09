@@ -15,3 +15,4 @@ C:\Users\andrew\source\repos\Weather\Weather\obj\Debug\net8.0\ref\Weather.dll
 C:\Users\andrew\source\repos\Weather\Weather\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\andrew\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.csproj.AssemblyReference.cache
 C:\Users\andrew\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.csproj.Up2Date
+C:\Users\andrew\source\repos\Weather\Weather\obj\Debug\net8.0\Weather.sourcelink.json
