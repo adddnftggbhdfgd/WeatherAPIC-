@@ -9,4 +9,5 @@ HOW TO USE:
 3. Open a project in Visual Studio .
 4. Sign up in https://openweathermap.org/api
 5. Put a key on variable where it say "Apikey"
-6. Run a program!
+6. dotnet build
+7. Run a program!
